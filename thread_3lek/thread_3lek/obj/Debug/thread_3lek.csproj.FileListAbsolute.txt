@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\bin\Debug\thread_3lek.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\bin\Debug\thread_3lek.exe
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\bin\Debug\thread_3lek.pdb
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\obj\Debug\thread_3lek.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\obj\Debug\thread_3lek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\obj\Debug\thread_3lek.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\obj\Debug\thread_3lek.exe
+C:\Users\Yerassyl Elbrus\source\repos\thread_3lek\thread_3lek\obj\Debug\thread_3lek.pdb

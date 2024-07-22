@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\bin\Debug\LinkedListSample.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\bin\Debug\LinkedListSample.exe
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\bin\Debug\LinkedListSample.pdb
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\obj\Debug\LinkedListSample.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\obj\Debug\LinkedListSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\obj\Debug\LinkedListSample.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\obj\Debug\LinkedListSample.exe
+C:\Users\Yerassyl Elbrus\source\repos\LinkedListSample\LinkedListSample\obj\Debug\LinkedListSample.pdb

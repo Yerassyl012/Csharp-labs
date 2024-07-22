@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rx_srs1", "rx_srs1\rx_srs1.csproj", "{C5D00DF7-C8DD-4F59-9175-497759353BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D00DF7-C8DD-4F59-9175-497759353BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D00DF7-C8DD-4F59-9175-497759353BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D00DF7-C8DD-4F59-9175-497759353BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D00DF7-C8DD-4F59-9175-497759353BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1DF1A90-5451-4AB5-962D-71C10EA29253}
+	EndGlobalSection
+EndGlobal

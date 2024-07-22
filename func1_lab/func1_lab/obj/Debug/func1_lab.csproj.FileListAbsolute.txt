@@ -1,0 +1,11 @@
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\bin\Debug\func1_lab.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\bin\Debug\func1_lab.exe
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\bin\Debug\func1_lab.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\bin\Debug\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\bin\Debug\nunit.framework.xml
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.exe
+C:\Users\Yerassyl Elbrus\source\repos\func1_lab\func1_lab\obj\Debug\func1_lab.pdb

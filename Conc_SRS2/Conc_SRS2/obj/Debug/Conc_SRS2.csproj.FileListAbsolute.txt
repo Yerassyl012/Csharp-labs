@@ -1,0 +1,11 @@
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\bin\Debug\Conc_SRS2.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\bin\Debug\Conc_SRS2.exe
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\bin\Debug\Conc_SRS2.pdb
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\bin\Debug\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\bin\Debug\nunit.framework.xml
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.exe
+C:\Users\Yerassyl Elbrus\source\repos\Conc_SRS2\Conc_SRS2\obj\Debug\Conc_SRS2.pdb

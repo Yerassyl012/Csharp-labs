@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\bin\Debug\vs_code.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\bin\Debug\vs_code.exe
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\bin\Debug\vs_code.pdb
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\obj\Debug\vs_code.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\obj\Debug\vs_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\obj\Debug\vs_code.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\obj\Debug\vs_code.exe
+C:\Users\Yerassyl Elbrus\source\repos\vs_code\vs_code\obj\Debug\vs_code.pdb

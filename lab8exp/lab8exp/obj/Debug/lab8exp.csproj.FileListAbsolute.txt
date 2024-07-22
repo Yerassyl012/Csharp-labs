@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\bin\Debug\lab8exp.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\bin\Debug\lab8exp.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\bin\Debug\lab8exp.pdb
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\obj\Debug\lab8exp.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\obj\Debug\lab8exp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\obj\Debug\lab8exp.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\obj\Debug\lab8exp.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab8exp\lab8exp\obj\Debug\lab8exp.pdb

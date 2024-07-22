@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "rC7DzHck6Njf++B9ZwywzXxk6egyZkhbZR8GPBkiX0TDrE2C6Xi9UP+E760s9eRuNNNz/I2gPgOujRb5rzRtCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yerassyl Elbrus\\source\\repos\\func_5lab\\srs1-rx\\srs1-rx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\layumba.functional\\2.0.0\\layumba.functional.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yerassyl Elbrus\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\system.threading.tasks.dataflow.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

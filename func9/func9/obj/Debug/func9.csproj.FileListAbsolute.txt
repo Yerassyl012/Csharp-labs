@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\bin\Debug\func9.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\bin\Debug\func9.exe
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\bin\Debug\func9.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\obj\Debug\func9.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\obj\Debug\func9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\obj\Debug\func9.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\obj\Debug\func9.exe
+C:\Users\Yerassyl Elbrus\source\repos\func9\func9\obj\Debug\func9.pdb

@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\bin\Debug\labka15.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\bin\Debug\labka15.exe
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\bin\Debug\labka15.pdb
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\obj\Debug\labka15.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\obj\Debug\labka15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\obj\Debug\labka15.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\obj\Debug\labka15.exe
+C:\Users\Yerassyl Elbrus\source\repos\labka15\labka15\obj\Debug\labka15.pdb

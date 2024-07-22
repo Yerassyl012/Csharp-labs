@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\bin\Debug\QueueSample.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\bin\Debug\QueueSample.exe
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\bin\Debug\QueueSample.pdb
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\obj\Debug\QueueSample.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\obj\Debug\QueueSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\obj\Debug\QueueSample.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\obj\Debug\QueueSample.exe
+C:\Users\Yerassyl Elbrus\source\repos\QueueSample\QueueSample\obj\Debug\QueueSample.pdb

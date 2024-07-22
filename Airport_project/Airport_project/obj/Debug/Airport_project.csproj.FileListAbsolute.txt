@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\bin\Debug\Airport_project.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\bin\Debug\Airport_project.exe
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\bin\Debug\Airport_project.pdb
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\obj\Debug\Airport_project.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\obj\Debug\Airport_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\obj\Debug\Airport_project.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\obj\Debug\Airport_project.exe
+C:\Users\Yerassyl Elbrus\source\repos\Airport_project\Airport_project\obj\Debug\Airport_project.pdb

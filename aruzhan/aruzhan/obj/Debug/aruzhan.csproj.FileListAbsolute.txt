@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\bin\Debug\aruzhan.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\bin\Debug\aruzhan.exe
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\bin\Debug\aruzhan.pdb
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\obj\Debug\aruzhan.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\obj\Debug\aruzhan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\obj\Debug\aruzhan.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\obj\Debug\aruzhan.exe
+C:\Users\Yerassyl Elbrus\source\repos\aruzhan\aruzhan\obj\Debug\aruzhan.pdb

@@ -1,0 +1,15 @@
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\bin\Debug\threadlab5.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\bin\Debug\threadlab5.exe
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\bin\Debug\threadlab5.pdb
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Form1.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Glasses.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Gloves.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Helmen.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Jacket.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.Properties.Resources.resources
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.csproj.GenerateResource.cache
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.exe
+C:\Users\Yerassyl Elbrus\source\repos\threadlab5\threadlab5\obj\Debug\threadlab5.pdb

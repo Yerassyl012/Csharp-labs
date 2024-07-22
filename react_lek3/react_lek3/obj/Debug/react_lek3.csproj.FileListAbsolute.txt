@@ -1,0 +1,15 @@
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\react_lek3.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\react_lek3.exe
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\react_lek3.pdb
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Reactive.dll
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Reactive.xml
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.exe
+C:\Users\Yerassyl Elbrus\source\repos\react_lek3\react_lek3\obj\Debug\react_lek3.pdb

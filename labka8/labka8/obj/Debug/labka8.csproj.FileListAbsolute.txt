@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\bin\Debug\labka8.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\bin\Debug\labka8.exe
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\bin\Debug\labka8.pdb
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\obj\Debug\labka8.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\obj\Debug\labka8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\obj\Debug\labka8.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\obj\Debug\labka8.exe
+C:\Users\Yerassyl Elbrus\source\repos\labka8\labka8\obj\Debug\labka8.pdb

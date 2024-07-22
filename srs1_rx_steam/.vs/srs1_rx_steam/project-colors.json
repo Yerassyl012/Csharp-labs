@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51e87a97-62db-4de0-8438-17587fe614ed": {
+      "ProjectGuid": "51e87a97-62db-4de0-8438-17587fe614ed",
+      "DisplayName": "srs1_rx_steam",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

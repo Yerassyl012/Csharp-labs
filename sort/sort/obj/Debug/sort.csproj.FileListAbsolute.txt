@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\bin\Debug\sort.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\bin\Debug\sort.exe
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\bin\Debug\sort.pdb
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\obj\Debug\sort.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\obj\Debug\sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\obj\Debug\sort.exe
+C:\Users\Yerassyl Elbrus\source\repos\sort\sort\obj\Debug\sort.pdb

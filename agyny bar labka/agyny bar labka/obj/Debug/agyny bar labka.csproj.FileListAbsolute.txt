@@ -1,0 +1,7 @@
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\bin\Debug\agyny bar labka.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\bin\Debug\agyny bar labka.exe
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\bin\Debug\agyny bar labka.pdb
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\obj\Debug\agyny bar labka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\obj\Debug\agyny bar labka.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\obj\Debug\agyny bar labka.exe
+C:\Users\Yerassyl Elbrus\source\repos\agyny bar labka\agyny bar labka\obj\Debug\agyny bar labka.pdb

@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\bin\Debug\lab4_parallel_prog.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\bin\Debug\lab4_parallel_prog.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\bin\Debug\lab4_parallel_prog.pdb
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\obj\Debug\lab4_parallel_prog.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\obj\Debug\lab4_parallel_prog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\obj\Debug\lab4_parallel_prog.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\obj\Debug\lab4_parallel_prog.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab4_parallel_prog\lab4_parallel_prog\obj\Debug\lab4_parallel_prog.pdb

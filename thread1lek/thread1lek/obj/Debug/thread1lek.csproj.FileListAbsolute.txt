@@ -1,0 +1,11 @@
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\bin\Debug\thread1lek.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\bin\Debug\thread1lek.exe
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\bin\Debug\thread1lek.pdb
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.Form1.resources
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.Properties.Resources.resources
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.csproj.GenerateResource.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.exe
+C:\Users\Yerassyl Elbrus\source\repos\thread1lek\thread1lek\obj\Debug\thread1lek.pdb

@@ -1,0 +1,15 @@
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\rx0.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\rx0.exe
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\rx0.pdb
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Reactive.dll
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Reactive.xml
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.exe
+C:\Users\Yerassyl Elbrus\source\repos\rx0\rx0\obj\Debug\rx0.pdb

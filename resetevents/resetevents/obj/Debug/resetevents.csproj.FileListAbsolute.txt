@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\bin\Debug\resetevents.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\bin\Debug\resetevents.exe
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\bin\Debug\resetevents.pdb
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\obj\Debug\resetevents.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\obj\Debug\resetevents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\obj\Debug\resetevents.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\obj\Debug\resetevents.exe
+C:\Users\Yerassyl Elbrus\source\repos\resetevents\resetevents\obj\Debug\resetevents.pdb

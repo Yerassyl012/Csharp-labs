@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\bin\Debug\lab2_1.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\bin\Debug\lab2_1.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\bin\Debug\lab2_1.pdb
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\obj\Debug\lab2_1.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab2_1\lab2_1\obj\Debug\lab2_1.pdb

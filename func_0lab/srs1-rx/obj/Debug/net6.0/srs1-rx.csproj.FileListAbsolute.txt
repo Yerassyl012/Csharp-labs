@@ -1,0 +1,76 @@
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.exe
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.deps.json
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.runtimeconfig.json
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.pdb
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.AssemblyReference.cache
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfoInputs.cache
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfo.cs
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CoreCompileInputs.cache
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\refint\srs1-rx.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.pdb
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.genruntimeconfig.cache
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CopyComplete
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\LaYumba.Functional.dll
+C:\Users\HOme\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.exe
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.deps.json
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.runtimeconfig.json
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\LaYumba.Functional.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfoInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfo.cs
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\srs1-rx\srs1-rx\obj\Debug\net6.0\srs1-rx.genruntimeconfig.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\srs1-rx.exe
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\srs1-rx.deps.json
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\srs1-rx.runtimeconfig.json
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\LaYumba.Functional.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfoInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfo.cs
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func_2lab\srs1-rx\obj\Debug\net6.0\srs1-rx.genruntimeconfig.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\srs1-rx.exe
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\srs1-rx.deps.json
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\srs1-rx.runtimeconfig.json
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\LaYumba.Functional.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfoInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.AssemblyInfo.cs
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.csproj.CopyComplete
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\ref\srs1-rx.dll
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.pdb
+C:\Users\Yerassyl Elbrus\source\repos\func_0lab\srs1-rx\obj\Debug\net6.0\srs1-rx.genruntimeconfig.cache

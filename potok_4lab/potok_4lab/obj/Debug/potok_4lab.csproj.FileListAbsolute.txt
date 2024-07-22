@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\bin\Debug\potok_4lab.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\bin\Debug\potok_4lab.exe
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\bin\Debug\potok_4lab.pdb
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\obj\Debug\potok_4lab.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\obj\Debug\potok_4lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\obj\Debug\potok_4lab.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\obj\Debug\potok_4lab.exe
+C:\Users\Yerassyl Elbrus\source\repos\potok_4lab\potok_4lab\obj\Debug\potok_4lab.pdb

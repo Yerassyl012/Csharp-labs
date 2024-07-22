@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\bin\Debug\srs2.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\bin\Debug\srs2.exe
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\bin\Debug\srs2.pdb
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\obj\Debug\srs2.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\obj\Debug\srs2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\obj\Debug\srs2.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\obj\Debug\srs2.exe
+C:\Users\Yerassyl Elbrus\source\repos\srs2\srs2\obj\Debug\srs2.pdb

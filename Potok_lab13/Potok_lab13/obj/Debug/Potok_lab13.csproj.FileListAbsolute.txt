@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\bin\Debug\Potok_lab13.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\bin\Debug\Potok_lab13.exe
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\bin\Debug\Potok_lab13.pdb
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\obj\Debug\Potok_lab13.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\obj\Debug\Potok_lab13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\obj\Debug\Potok_lab13.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\obj\Debug\Potok_lab13.exe
+C:\Users\Yerassyl Elbrus\source\repos\Potok_lab13\Potok_lab13\obj\Debug\Potok_lab13.pdb

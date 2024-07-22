@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\bin\Debug\lab5_auto.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\bin\Debug\lab5_auto.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\bin\Debug\lab5_auto.pdb
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\obj\Debug\lab5_auto.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\obj\Debug\lab5_auto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\obj\Debug\lab5_auto.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\obj\Debug\lab5_auto.exe
+C:\Users\Yerassyl Elbrus\source\repos\lab5_auto\lab5_auto\obj\Debug\lab5_auto.pdb

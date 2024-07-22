@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50f94ae5-9cc0-48a9-8b1f-01a7a7f89ae1": {
+      "ProjectGuid": "50f94ae5-9cc0-48a9-8b1f-01a7a7f89ae1",
+      "DisplayName": "srs2_1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\bin\Debug\srs1_parallelProg.exe.config
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\bin\Debug\srs1_parallelProg.exe
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\bin\Debug\srs1_parallelProg.pdb
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\obj\Debug\srs1_parallelProg.csproj.AssemblyReference.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\obj\Debug\srs1_parallelProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\obj\Debug\srs1_parallelProg.csproj.CoreCompileInputs.cache
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\obj\Debug\srs1_parallelProg.exe
+C:\Users\Yerassyl Elbrus\source\repos\srs1_parallelProg\srs1_parallelProg\obj\Debug\srs1_parallelProg.pdb

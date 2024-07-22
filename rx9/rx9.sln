@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rx9", "rx9\rx9.csproj", "{04D179EC-0213-48A7-A5A8-90F53E25D266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D179EC-0213-48A7-A5A8-90F53E25D266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D179EC-0213-48A7-A5A8-90F53E25D266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D179EC-0213-48A7-A5A8-90F53E25D266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D179EC-0213-48A7-A5A8-90F53E25D266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D001E3B6-5D8E-43AD-9185-706E0F9B11B7}
+	EndGlobalSection
+EndGlobal
